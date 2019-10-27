@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Quote generator</string>
+    <string name="button_gen_quote">Generate random quote</string>
+</resources>
