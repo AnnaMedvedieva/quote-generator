@@ -26,7 +26,7 @@
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent"
-            tools:text="jgjgjhjjgjgjgjgj" />
+            tools:text="text" />
 
         <TextView
             android:id="@+id/quoteAuthor"
@@ -38,7 +38,7 @@
             android:textSize="18sp"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/quoteText"
-            tools:text="hjhjhjhjhjhj" />
+            tools:text="text" />
 
 
         <Button
