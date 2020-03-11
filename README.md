@@ -1,6 +1,6 @@
 # quote-generator
 
-App written in Kotlin that shows random quote when pushing the button. 
+App that shows random quote after pushing the button. 
 
 ## Built with
 
