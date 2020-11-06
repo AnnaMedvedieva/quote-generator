@@ -1,6 +1,6 @@
 # Quote Generator App
 
-App that shows random quote
+App that shows a random quote
 
 ## Screenshot
 ![Main screen](https://github.com/AnnaMedvedieva/quote-generator/blob/master/screenshots/screenshot_quote.png)
